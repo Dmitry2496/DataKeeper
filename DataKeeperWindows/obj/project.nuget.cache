@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "80n3P/nri7M=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\DataKeeperWindows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.7\\microsoft.data.sqlite.core.9.0.7.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlcipher\\2.1.11\\sqlitepclraw.bundle_e_sqlcipher.2.1.11.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\sqlitepclraw.lib.e_sqlcipher\\2.1.11\\sqlitepclraw.lib.e_sqlcipher.2.1.11.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\sqlitepclraw.provider.e_sqlcipher\\2.1.11\\sqlitepclraw.provider.e_sqlcipher.2.1.11.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

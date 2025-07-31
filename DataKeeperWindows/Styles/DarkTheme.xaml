@@ -1,0 +1,92 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="Window.Static.Background" Color="#FF282828"/>
+    <SolidColorBrush x:Key="Window.Static.Border" Color="DarkGray"/>
+
+    <SolidColorBrush x:Key="TopPanel.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="TopPanel.Static.Foreground" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="TopButton.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="TopButton.Highlight.Background" Color="#FF282828"/>
+
+    <SolidColorBrush x:Key="Button.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="Button.Static.Foreground" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="Button.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="Button.Highlight.Background" Color="Gray"/>
+    <SolidColorBrush x:Key="Button.Highlight.Foreground" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF646464"/>
+
+    <SolidColorBrush x:Key="CheckBox.Static.Foreground" Color="WhiteSmoke"/>
+
+    <SolidColorBrush x:Key="TextBlock.Static.Foreground" Color="WhiteSmoke"/>
+
+    <SolidColorBrush x:Key="TextBox.Static.Foreground" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="TextBox.Static.Background" Color="#FF282828"/>
+    <SolidColorBrush x:Key="TextBox.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="TextBox.Selection.Background" Color="#FF969696"/>
+    <SolidColorBrush x:Key="TextBox.MouseOver.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="TextBox.Focused.Background" Color="#FF383838"/>
+
+    <SolidColorBrush x:Key="PasswordBox.Static.Foreground" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="PasswordBox.Static.Background" Color="#FF282828"/>
+    <SolidColorBrush x:Key="PasswordBox.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="PasswordBox.Selection.Background" Color="#FF969696"/>
+    <SolidColorBrush x:Key="PasswordBox.MouseOver.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="PasswordBox.Focused.Background" Color="#FF383838"/>
+
+    <SolidColorBrush x:Key="Separator.Static.Background" Color="#FF585858"/>
+
+    <SolidColorBrush x:Key="Menu.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="Menu.Static.Foreground" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="Menu.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="Menu.Static.Separator" Color="DarkGray"/>
+    <SolidColorBrush x:Key="Menu.Disabled.Foreground" Color="#FF646464"/>
+
+    <SolidColorBrush x:Key="MenuItem.Selected.Background" Color="Transparent"/>
+    <SolidColorBrush x:Key="MenuItem.Selected.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="MenuItem.TopLevel.SubmenuOpen.Background" Color="#FF282828"/>
+    <SolidColorBrush x:Key="MenuItem.TopLevel.SubmenuOpen.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="MenuItem.TopLevel.Highlight.Background" Color="#FF335878"/>
+    <SolidColorBrush x:Key="MenuItem.Highlight.Background" Color="#FF335878"/>
+    <SolidColorBrush x:Key="MenuItem.Highlight.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="MenuItem.SubMenu.Static.Background" Color="#FF282828"/>
+    <SolidColorBrush x:Key="MenuItem.SubMenu.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="MenuItem.Arrow.Background" Color="DarkGray"/>
+    <SolidColorBrush x:Key="MenuItem.Checkmark.Background" Color="DarkGray"/>
+
+    <SolidColorBrush x:Key="TabControl.Static.Background" Color="Transparent"/>
+    <SolidColorBrush x:Key="TabControl.Static.Border" Color="Transparent"/>
+    <SolidColorBrush x:Key="TabControl.HeaderBorder.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="TabControl.HeaderBorder.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="TabControl.Item.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="TabControl.Item.Static.Foreground" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="TabControl.Item.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="TabControl.Item.Selected.Background" Color="#FF335878"/>
+    <SolidColorBrush x:Key="TabControl.Item.Highlight.Background" Color="Gray"/>
+
+    <SolidColorBrush x:Key="BottomPanel.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="BottomPanel.Static.Foreground" Color="WhiteSmoke"/>
+
+    <SolidColorBrush x:Key="ScrollBar.Static.Background" Color="Transparent"/>
+    <SolidColorBrush x:Key="ScrollBar.Thumb.Static.Background" Color="DarkGray"/>
+    <SolidColorBrush x:Key="ScrollBar.Thumb.Select.Background" Color="Gainsboro"/>
+    <SolidColorBrush x:Key="ScrollBar.RepeatButton.Static.Background" Color="Transparent"/>
+    <SolidColorBrush x:Key="ScrollBar.RepeatButton.Select.Background" Color="DarkGray"/>
+    <SolidColorBrush x:Key="ScrollBar.Arrow.Static.Background" Color="DarkGray"/>
+    <SolidColorBrush x:Key="ScrollBar.Arrow.Pressed.Background" Color="#FF006FA9"/>
+    <SolidColorBrush x:Key="ScrollBar.Arrow.Select.Background" Color="#FF383838"/>
+
+    <SolidColorBrush x:Key="ScrollViewer.Rectangle.Static.Background" Color="Transparent"/>
+
+    <SolidColorBrush x:Key="DataGrid.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="DataGrid.Static.Foreground" Color="WhiteSmoke"/>
+    <SolidColorBrush x:Key="DataGrid.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="DataGrid.Static.HorLine" Color="DarkGray"/>
+    <SolidColorBrush x:Key="DataGrid.Static.VertLine" Color="DarkGray"/>
+    <SolidColorBrush x:Key="DataGrid.ColumnHeader.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="DataGrid.ColumnHeader.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="DataGrid.RowHeader.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="DataGrid.RowHeader.Static.Border" Color="DarkGray"/>
+    <SolidColorBrush x:Key="DataGrid.Row.Static.Background" Color="#FF383838"/>
+    <SolidColorBrush x:Key="DataGrid.Row.Select.Background" Color="#FF181818"/>
+</ResourceDictionary>

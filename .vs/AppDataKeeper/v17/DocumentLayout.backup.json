@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "D:\\Projects\\AppDataKeeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD5EA196-7459-4440-AF19-80BA3C03B4BA}|DataKeeperWindow\\DataKeeperWindow.csproj|d:\\projects\\appdatakeeper\\datakeeperwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AD5EA196-7459-4440-AF19-80BA3C03B4BA}|DataKeeperWindow\\DataKeeperWindow.csproj|solutionrelative:datakeeperwindow\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD5EA196-7459-4440-AF19-80BA3C03B4BA}|DataKeeperWindow\\DataKeeperWindow.csproj|d:\\projects\\appdatakeeper\\datakeeperwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD5EA196-7459-4440-AF19-80BA3C03B4BA}|DataKeeperWindow\\DataKeeperWindow.csproj|solutionrelative:datakeeperwindow\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\datakeeperwindows.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\datakeeperwindows.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\windows\\createoropenfilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\windows\\createoropenfilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\windows\\createoropenfilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\windows\\createoropenfilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\windows\\renametablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\windows\\renametablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\windows\\renametablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\windows\\renametablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\windows\\addnewtablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\windows\\addnewtablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\windows\\addnewtablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\windows\\addnewtablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|d:\\projects\\appdatakeeper\\datakeeperwindows\\styles\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19F13AA7-782D-4835-A260-A564FB0D776D}|DataKeeperWindows\\DataKeeperWindows.csproj|solutionrelative:datakeeperwindows\\styles\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +58,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindow\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "DataKeeperWindow\\MainWindow.xaml",
-              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindow\\MainWindow.xaml",
-              "RelativeToolTip": "DataKeeperWindow\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-09T19:00:22.751Z",
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Properties\\Resources.resx",
+              "RelativeToolTip": "DataKeeperWindows\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-14T08:39:40.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindow\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "DataKeeperWindow\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindow\\MainWindow.xaml.cs",
-              "RelativeToolTip": "DataKeeperWindow\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T19:00:20.103Z",
+              "Title": "DataKeeperWindows",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\DataKeeperWindows.csproj",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\DataKeeperWindows.csproj",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\DataKeeperWindows.csproj",
+              "RelativeToolTip": "DataKeeperWindows\\DataKeeperWindows.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T08:39:18.071Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrOpenFileWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\CreateOrOpenFileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\Windows\\CreateOrOpenFileWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\CreateOrOpenFileWindow.xaml.cs",
+              "RelativeToolTip": "DataKeeperWindows\\Windows\\CreateOrOpenFileWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:36:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOrOpenFileWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\CreateOrOpenFileWindow.xaml",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\Windows\\CreateOrOpenFileWindow.xaml",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\CreateOrOpenFileWindow.xaml",
+              "RelativeToolTip": "DataKeeperWindows\\Windows\\CreateOrOpenFileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T08:36:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RenameTableWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\RenameTableWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\Windows\\RenameTableWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\RenameTableWindow.xaml.cs",
+              "RelativeToolTip": "DataKeeperWindows\\Windows\\RenameTableWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:35:42.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "DataKeeperWindows\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:25:20.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DataKeeperWindows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T09:09:37.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RenameTableWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\RenameTableWindow.xaml",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\Windows\\RenameTableWindow.xaml",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\RenameTableWindow.xaml",
+              "RelativeToolTip": "DataKeeperWindows\\Windows\\RenameTableWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T08:35:25.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddNewTableWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\AddNewTableWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\Windows\\AddNewTableWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\AddNewTableWindow.xaml.cs",
+              "RelativeToolTip": "DataKeeperWindows\\Windows\\AddNewTableWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T09:13:08.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\MainWindow.xaml",
+              "RelativeToolTip": "DataKeeperWindows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-13T09:08:30.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddNewTableWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\AddNewTableWindow.xaml",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\Windows\\AddNewTableWindow.xaml",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Windows\\AddNewTableWindow.xaml",
+              "RelativeToolTip": "DataKeeperWindows\\Windows\\AddNewTableWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-13T09:12:48.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Styles\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "DataKeeperWindows\\Styles\\LightTheme.xaml",
+              "ToolTip": "D:\\Projects\\AppDataKeeper\\DataKeeperWindows\\Styles\\LightTheme.xaml",
+              "RelativeToolTip": "DataKeeperWindows\\Styles\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-13T09:01:49.445Z",
+              "EditorCaption": ""
             }
           ]
         }

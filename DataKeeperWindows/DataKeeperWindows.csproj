@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Add.png" />
+    <None Remove="Resources\butClose.png" />
+    <None Remove="Resources\butMaximize.png" />
+    <None Remove="Resources\butMinimize.png" />
+    <None Remove="Resources\butRestore.png" />
+    <None Remove="Resources\error.ico" />
+    <None Remove="Resources\ExtractTo.png" />
+    <None Remove="Resources\info.ico" />
+    <None Remove="Resources\Logo.ico" />
+    <None Remove="Resources\Logo.png" />
+    <None Remove="Resources\warning.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="9.0.7" />
+    <PackageReference Include="SQLitePCLRaw.bundle_e_sqlcipher" Version="2.1.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Add.png" />
+    <Resource Include="Resources\butClose.png" />
+    <Resource Include="Resources\butMaximize.png" />
+    <Resource Include="Resources\butMinimize.png" />
+    <Resource Include="Resources\butRestore.png" />
+    <Resource Include="Resources\error.ico" />
+    <Resource Include="Resources\ExtractTo.png" />
+    <Resource Include="Resources\info.ico" />
+    <Resource Include="Resources\Logo.ico" />
+    <Resource Include="Resources\Logo.png" />
+    <Resource Include="Resources\warning.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+﻿<Application x:Class="DataKeeperWindows.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataKeeperWindows"
+             xmlns:classes="clr-namespace:DataKeeperWindows.Classes"
+             xmlns:themes="clr-namespace:DataKeeperWindows.Styles">
+    <Application.Resources>
+        <ResourceDictionary>
+            <classes:WidthWindowConverter x:Key="WidthWindowConverter"/>
+            <classes:RowToIndexConverter x:Key="RowToIndexConverter"/>
+            <classes:SelectedIndexToBoolConverter x:Key="SelectedIndexToBoolConverter"/>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/Templates.xaml"/>
+                <themes:ThemeResourceDictionary DarkTheme="Styles/DarkTheme.xaml"
+                                                LightTheme="Styles/LightTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

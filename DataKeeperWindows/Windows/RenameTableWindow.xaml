@@ -1,0 +1,104 @@
+﻿<Window x:Class="DataKeeperWindows.Windows.RenameTableWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataKeeperWindows.Windows"
+        mc:Ignorable="d"
+        Title="Переименование таблицы" 
+        Height="180" 
+        Width="330"
+        Name="window"
+        WindowStartupLocation="CenterOwner" 
+        ShowInTaskbar="True" 
+        Topmost="True" 
+        Style="{StaticResource Window.NoResize.Style}" 
+        KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- #region Top panel -->
+        <Canvas Name="topCanvas" 
+                Grid.Row="0" 
+                Width="{Binding Width, ConverterParameter=-6, Converter={StaticResource WidthWindowConverter}, ElementName=window}">
+            <Rectangle Name="topPanel"                        
+                       Width="{Binding Width, ElementName=topCanvas}"
+                       Style="{DynamicResource TopPanel.Style}" 
+                       MouseLeftButtonDown="TopPanel_MouseLeftButtonDown"/>
+            <Label Style="{DynamicResource TopPanel.Icon.Style}"/>
+            <TextBlock Text="Переименование таблицы" 
+                       Canvas.Left="30" 
+                       Foreground="{DynamicResource TextBlock.Static.Foreground}"/>
+            <Button x:Name="butClose" 
+                    Style="{DynamicResource TopButton.Close.Style}" 
+                    Click="ButtonClose_Click" />
+        </Canvas>
+        <!-- #endregion -->
+
+
+        <TextBlock Text="Текущее название: " 
+                   Name="currentName"
+                   Grid.Row="1"  
+                   HorizontalAlignment="Left" 
+                   VerticalAlignment="Top" 
+                   Margin="10,10,10,0" 
+                   Width="Auto" 
+                   TextTrimming="CharacterEllipsis"
+                   Foreground="{StaticResource TextBlock.Static.Foreground}"/>
+
+        <TextBlock Text="Новое название:"
+                   Grid.Row="2" 
+                   HorizontalAlignment="Left" 
+                   VerticalAlignment="Top" 
+                   Margin="10,5,10,0" 
+                   Width="Auto" 
+                   Foreground="{StaticResource TextBlock.Static.Foreground}"/>
+
+        <TextBox Name="inputName" 
+                 Grid.Row="2" 
+                 Width="200" 
+                 Height="25"
+                 HorizontalAlignment="Left" 
+                 VerticalAlignment="Top" 
+                 Margin="110,2,10,0" 
+                 TextChanged="InputName_TextChanged"/>
+
+        <TextBlock Text="!!! Пустое название"
+                   Name="warningText"
+                   Grid.Row="3" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Top" 
+                   Margin="0,0,0,0" 
+                   Width="Auto" 
+                   Foreground="Red"/>
+
+        <StackPanel Grid.Row="4" 
+                    Orientation="Horizontal" 
+                    FlowDirection="RightToLeft">
+            <Button Name="buttonCancel" 
+                    Height="20" 
+                    Width="60"
+                    Style="{DynamicResource Button.Style}" 
+                    Content="Отмена" 
+                    Margin="10,0,0,0" 
+                    Click="ButtonCancel_Click"/>
+            <Button Name="buttonYes" 
+                    IsEnabled="false"
+                    Height="20" 
+                    Width="60"
+                    Style="{DynamicResource Button.Style}" 
+                    Content="ОК"
+                    Margin="10,0,0,0" 
+                    Click="ButtonYes_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
