@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataKeeperWindows")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3acb4a6dbd4fed03ac5afd4e88acf784b29ba737")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b031cb87f98cf28a8c35165d6cf87026b806a16")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataKeeperWindows")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataKeeperWindows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
